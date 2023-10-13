@@ -1,0 +1,19 @@
+*.log
+__pycache__
+db.json
+
+# test files
+.pytest_cache/
+test_*.py
+*_fixture.py
+
+
+# Distribution / packaging
+eggs/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDEs and editors
+settings.json
