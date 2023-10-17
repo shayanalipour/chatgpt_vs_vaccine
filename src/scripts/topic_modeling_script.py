@@ -5,7 +5,7 @@ from analysis.topic_modeling import TopicModeling
 logger = logging_config.setup_logger(constants.LOGGER_NAME)
 
 
-def detect_lang_ig():
+def run_topic_modeling():
     topic = "chatgpt"
     platform = "twitter"
     logger.info(f"Processing {topic} topic")
@@ -15,4 +15,4 @@ def detect_lang_ig():
 
 
 if __name__ == "__main__":
-    detect_lang_ig()
+    run_topic_modeling()
