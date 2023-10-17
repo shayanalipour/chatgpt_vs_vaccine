@@ -5,25 +5,23 @@ In paper “Cross-Platform Social Dynamics: An Analysis of ChatGPT and COVID-19 
 ## ChatGPT and vaccination discussions in online platforms
 We gathered over 12 million posts and articles from Twitter, Facebook, Instagram, Reddit, YouTube, and GDELT (news outlets) for both topics during a 3-month period. 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1; min-width: 300px; position: relative;">
-        <div style="width: 100%; padding-top: 50%; position: relative;">
-            <img src="figures/figure1_chatgpt.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-        </div>
-        <p style="text-align: center;">ChatGPT discussions
-</p>
+#### ChatGPT discussions
+<div style="width: 100%; position: relative; margin: 0 auto;">
+    <div style="padding-top: 50%; position: relative;">
+        <img src="figures/figure1_chatgpt.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </div>
-    <div style="flex: 1; min-width: 300px; position: relative;">
-        <div style="width: 100%; padding-top: 50%; position: relative;">
-            <img src="figures/figure1_vaccine.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-        </div>
-        <p style="text-align: center;">COVID-19 vaccination discussions</p>
+</div>
+
+#### COVID-19 vaccination discussions
+<div style="width: 100%; position: relative; margin: 0 auto;">
+    <div style="padding-top: 50%; position: relative;">
+        <img src="figures/figure1_vaccine.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </div>
 </div>
 
 
 ## Platform-specific dynamics
-Using topic modeling techniques, we discovered that each platform has a distinct thematic emphasis, reflecting its specific features and audience. Furthermore, By doing sentiment analysis we highlighted a diverse range of public perceptions regarding these topics. 
+Using topic modeling techniques, we discovered that each platform has a distinct thematic emphasis, reflecting its specific features and audience. Furthermore, by doing sentiment analysis we highlighted a diverse range of public perceptions regarding these topics. 
 
 <div style="width: 100%; position: relative; margin: 0 auto;">
     <div style="padding-top: 50%; position: relative;">
