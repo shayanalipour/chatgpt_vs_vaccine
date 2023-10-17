@@ -2,6 +2,7 @@
 __pycache__
 db.json
 keys/
+data/
 
 # test files
 .pytest_cache/
